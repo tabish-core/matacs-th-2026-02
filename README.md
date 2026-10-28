@@ -1,0 +1,1 @@
+I used ChatGPT to discuss my approach. I questioned the suggestion to send the PDF directly to the AI without extracting structured data first. Used Gemini to improve the wording and Mermaid.js to turn my written process into a diagram.
